@@ -93,7 +93,7 @@ I'm currently targeting **software engineering roles in Europe** (particularly t
 Analyzed M-Pesa mobile financial transaction flows and security protocols to identify and mitigate platform vulnerabilities. Real-time network troubleshooting across one of Africa's largest fintech platforms (50M+ users).
 
 **👨‍💻 Full-Stack Developer — Senior Capstone** *(Aug 2025 – May 2026)*  
-Led a 4-person team through the complete SDLC: React frontend + JavaScript/MongoDB backend with a custom fuzzy search algorithm + third-party API integration for part searching and order fulfillment.
+Worked with a 4-person team through the complete SDLC: React frontend + JavaScript/MongoDB backend with a custom fuzzy search algorithm + third-party API integration for part searching and order fulfillment.
 
 ---
 
